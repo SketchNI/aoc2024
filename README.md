@@ -2,7 +2,7 @@ Sketchs Advent of Code 2024 Solutions... Maybe
 
 - Day 1: COMPLETED
 - Day 2: CHEATED - Googled for the solution because holy fuck that was evil. ([Used this solution](https://github.com/dannyvankooten/advent-of-code/blob/main/2024-php/02.php))
-- Day 3: 
+- Day 3: Part 1 COMPELTED. Part 2: Abandoned.
 - Day 4: 
 - Day 5: 
 - Day 6: 
