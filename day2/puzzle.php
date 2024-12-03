@@ -24,13 +24,14 @@ function is_safe(array $numbers): bool
     return true;
 }
 
-$input = trim(file_get_contents('input.txt);
+$input = trim(file_get_contents('input.txt'));
 $pt1 = 0;
 $pt2 = 0;
+
 foreach (explode("\n", $input) as $line) {
     $numbers = array_map(function ($v) {
         return (int) $v;
-    }, explode(' ', $line));
+    }, explode(" ", $line));
 
     if (is_safe($numbers)) {
         $pt1++;
